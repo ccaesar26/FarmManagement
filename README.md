@@ -15,10 +15,10 @@ Farm Management Application is a Java-based desktop application designed to assi
 - **Customization**: Different pages within the application dynamically display farm data based on user actions, enhancing usability and organization.
 
 <div style="display: flex; justify-content: center;">
-    <img src="images/menu.png" alt="Image 1" style="margin-right: 10px; width: 440px;">
-    <img src="images/list.png" alt="Image 2" style="margin-right: 10px; width: 440px;">
-    <img src="images/add.png" alt="Image 3" style="margin-right: 10px; width: 440px;">
-    <img src="images/edit.png" alt="Image 4" style="width: 440px;">
+    <img src="images/menu.png" alt="Image 1" style="margin-right: 10px; width: 400px;">
+    <img src="images/list.png" alt="Image 2" style="margin-right: 10px; width: 400px;">
+    <img src="images/add.png" alt="Image 3" style="margin-right: 10px; width: 400px;">
+    <img src="images/edit.png" alt="Image 4" style="width: 400px;">
 </div>
 
 ## Requirements
